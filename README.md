@@ -11,5 +11,3 @@ collect the specified suffix photos, then generate a photo gallery. HASH fingerp
 pic fils. The shooting time in Exif is used to sort all the files. By identifying the picture's aspect ratio, set the
 appropriate display size on a Web page. Eventually in time axis to generate a year, month, and day dimensions page.
 HomePage of jAlbum：[HomePage](https://codefine.site/2837.html)。
-
-
